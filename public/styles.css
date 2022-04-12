@@ -11,8 +11,7 @@ background-repeat: no-repeat;
 background-position: -300px 160%;
 background-size: 31rem 34rem;
 position:bottom;
-} 
-
+}
 
 .round{
 border-radius:16px;
@@ -27,10 +26,9 @@ color:rgb(23, 54, 94);
     }
 
 .hover-shadow:hover{
-        box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+        box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
 }
-
 .hover-circle:hover{
-    background-color: #e0e1e1!important;
+    background-color: #e0e1e1;
     border-radius:100px;
 }
